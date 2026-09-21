@@ -1,0 +1,1 @@
+export default function NotFound(){return <main className="legal shell"><div className="eyebrow">404</div><h1>Nothing here.</h1><p>The page you requested does not exist.</p><a className="button" href="/">Return home</a></main>}
